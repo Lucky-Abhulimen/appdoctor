@@ -101,7 +101,7 @@ border-radius: 70%;
 .testimonial-image{
   width: 15%;
   border-radius: 100%;
-  margin: 20px;
+  margin: 10px;
 }
 
 /* press section */
@@ -148,7 +148,7 @@ border-radius: 70%;
 
 /* cta  section*/
 #cta{
-  background-color: #ff4c68;
+  background-color: #16817a;
   color: #fff;
   padding: 7% 15%;
   text-align: center;
@@ -173,4 +173,8 @@ border-radius: 70%;
 }
 .social-icons{
   margin: 20px 10px;
+}
+.bold{
+  font-size: bold;
+  background-color:#4cbbb9;
 }
