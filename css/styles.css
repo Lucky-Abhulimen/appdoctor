@@ -119,6 +119,12 @@ border-radius: 70%;
   padding: 7% 15%;
 }
 
+#cta{
+  text-align: center;
+  background-color:#16817a; 
+  padding: 100px;
+  color: #fff;
+}
 /* pricing */
 #pricing{
   text-align: center;
