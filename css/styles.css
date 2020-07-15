@@ -99,9 +99,9 @@ border-radius: 70%;
   color: #fff;
 }
 .testimonial-image{
-  width: 15%;
+  width: 25%;
   border-radius: 100%;
-  margin: 10px;
+  margin: 20px;
 }
 
 /* press section */
@@ -135,16 +135,9 @@ border-radius: 70%;
     transform: rotate(0);
   }
 
-}
-
-
-
-
 .pricing-table{
   padding: 3% 2%;
 }
-
-
 
 /* cta  section*/
 #cta{
@@ -161,6 +154,15 @@ border-radius: 70%;
   line-height: 1.5;
 
 }
+.testimonial-image{
+width: 270px;
+
+}
+em{
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+}
 
 
 
@@ -173,8 +175,4 @@ border-radius: 70%;
 }
 .social-icons{
   margin: 20px 10px;
-}
-.bold{
-  font-size: bold;
-  background-color:#4cbbb9;
 }
